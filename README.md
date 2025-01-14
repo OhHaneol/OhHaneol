@@ -16,10 +16,10 @@
   
 </p>
   <a>
-    <img width="45%" src="https://velog-readme-stats.vercel.app/api/list?name=otyvs1109">
+    <img width="48%" src="https://velog-readme-stats.vercel.app/api/list?name=otyvs1109">
   </a>
   <a>
-    <img width="45%" src="https://velog-readme-stats.vercel.app/api?name=otyvs1109&tag=transaction">
+    <img width="48%" src="https://velog-readme-stats.vercel.app/api?name=otyvs1109&tag=transaction">
   </a>
 </div>  
 
