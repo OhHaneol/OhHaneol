@@ -6,53 +6,34 @@
 
 
 
-<h3 align="center">📚 Tech Blog</h3>
-<div align="center">
+<h3 align="center">
+  📚 Tech Blog
+</h3>
 
+<p align="center">
+   <a href="https://velog.io/@otyvs1109"><img width="100px" src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@otyvs1109"/></a>
+<div align="center">
+  
+</p>
   <a>
     <img width="45%" src="https://velog-readme-stats.vercel.app/api/list?name=otyvs1109">
   </a>
   <a>
     <img width="45%" src="https://velog-readme-stats.vercel.app/api?name=otyvs1109&tag=transaction">
   </a>
-
 </div>  
 
 
 
 <h3 align="center">🚀 Tech Stack</h3>
-
-<h4 align="center">Backend</h4>
-<div align="center"> 
-  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">   
-  <br>
-  <img src="https://img.shields.io/badge/junits-47A248?style=for-the-badge&logo=junits5&logoColor=white">
-  <img src="https://img.shields.io/badge/mockito-F80000?style=for-the-badge&logo=mockito&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/springdatajpa-6DB33F?style=for-the-badge&logo=springdatajpa&logoColor=white">
-  <br>
-</div>
-
-<h4 align="center">Frontend</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/thymeleaf-0C6E0C?style=for-the-badge&logo=thymeleaf&logoColor=white"> 
-</div>
+  
+| 분야 | 스킬 |
+|---|---|
+| Backend | <div align="center"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">   <br>  <img src="https://img.shields.io/badge/junits-47A248?style=for-the-badge&logo=junit5&logoColor=white">  <img src="https://img.shields.io/badge/mockito-F80000?style=for-the-badge&logo=mockito&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/spring data jpa-6DB33F?style=for-the-badge&logo=springdatajpa&logoColor=white"> </div> |
+| Frontend | <div align="center"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/thymeleaf-0C6E0C?style=for-the-badge&logo=thymeleaf&logoColor=white"> </div> |
+| Deployment | <div align="center"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon web services&logoColor=white"> <img src="https://img.shields.io/badge/amazon rds-537fff?style=for-the-badge&logo=amazon rds&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-db5242?style=for-the-badge&logo=amazon s3&logoColor=white"> <img src="https://img.shields.io/badge/amazon ec2-ff9903?style=for-the-badge&logo=amazon ec2&logoColor=white"> <img src="https://img.shields.io/badge/git actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/docker-2497ed?style=for-the-badge&logo=docker&logoColor=white"> </div> |
 
-<h4 align="center">Deployment</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/aws rds-537fff?style=for-the-badge&logo=awsrds&logoColor=white"> 
-  <img src="https://img.shields.io/badge/aws s3-db5242?style=for-the-badge&logo=awss3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/aws ec2-ff9903?style=for-the-badge&logo=awsec2&logoColor=white"> 
-  <img src="https://img.shields.io/badge/git actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white"> 
-  <img src="https://img.shields.io/badge/docker-2497ed?style=for-the-badge&logo=docker&logoColor=white"> 
 </div>
 
 
