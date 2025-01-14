@@ -6,12 +6,12 @@
 
 <h3 align="center">📚 Tech Blog 📚</h3>
 <div align="center">
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=otyvs1109)](https://velog.io/@eungyeole)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=otyvs1109&tag="transaction")](https://github.com/eungyeole/velog-readme-stats)
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=oh_eol&tag="성능")](https://github.com/OhHaneol/velog-readme-stats)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=oh_eol&tag="thread")](https://github.com/OhHaneol/velog-readme-stats)
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=oh_eol&tag="transaction")](https://github.com/OhHaneol/velog-readme-stats)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=oh_eol&tag="JPA")](https://github.com/OhHaneol/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=otyvs1109&tag="성능")](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=otyvs1109&tag="JPA")](https://github.com/eungyeole/velog-readme-stats)
   
 </div>  
 
