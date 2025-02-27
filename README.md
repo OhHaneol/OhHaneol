@@ -36,12 +36,11 @@
 
 </div>
 
-
+ <!--
 
 <h3 align="center">📍 Information</h3>
 <div align="center">
 
-  <!--
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhHaneol&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=a9fef7&title_color=de3b7f&count_private=true&exclude_repo=Unity-Practice" width=38% />
@@ -51,7 +50,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=OhHaneol&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=f8d847&text_color=a9fef7&title_color=de3b7f&count_private=true" width=56% />
   </a>  
 
-  -->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=OhHaneol&theme=react-dark&bg_color=20232a&hide_border=true&line=f8d847&color=de3b7f" width=94%/>
@@ -59,3 +57,5 @@
   
 </div>
 
+
+  -->
