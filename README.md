@@ -24,6 +24,8 @@
 </div>  
 
 
+ <!--
+
 
 <h3 align="center">🚀 Tech Stack</h3>
 <div align="center">
@@ -35,8 +37,6 @@
 | Deployment | <div align="center"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon web services&logoColor=white"> <img src="https://img.shields.io/badge/amazon rds-537fff?style=for-the-badge&logo=amazon rds&logoColor=white"> <img src="https://img.shields.io/badge/amazon s3-db5242?style=for-the-badge&logo=amazon s3&logoColor=white"> <img src="https://img.shields.io/badge/amazon ec2-ff9903?style=for-the-badge&logo=amazon ec2&logoColor=white"> <img src="https://img.shields.io/badge/git actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/docker-2497ed?style=for-the-badge&logo=docker&logoColor=white"> </div> |
 
 </div>
-
- <!--
 
 <h3 align="center">📍 Information</h3>
 <div align="center">
